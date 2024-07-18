@@ -12,3 +12,5 @@ The listed papers provide the code necessary for reproducing the figures or resu
 - [scHi-C](#schi-c)
 - [Spatial Transcriptome](#spatial-transcriptome)
 - [Multiomics](#multiomics)
+
+Regulation of endocrine cell alternative splicing revealed by single-cell RNA sequencing in type 2 diabetes pathogenesis
